@@ -1,4 +1,4 @@
-SpendWise Dashboard 💰
+SpendWise Dashboard 
 
 **SpendWise Dashboard** is a modern, lightweight web application for tracking personal expenses.  
 Built with **HTML, CSS, and JavaScript**, it provides full CRUD functionality, monthly analytics, data visualization, and CSV export.  
@@ -6,7 +6,7 @@ Ideal for anyone who wants to **understand and control their spending**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Add Expenses** – Name, amount, and category  
 - **Edit Expenses** – Update any expense quickly  
@@ -19,7 +19,7 @@ Ideal for anyone who wants to **understand and control their spending**.
 
 ---
 
-## 🎨 UI/UX
+##  UI/UX
 
 - Clean, light professional theme  
 - Rounded input fields and buttons  
@@ -28,14 +28,14 @@ Ideal for anyone who wants to **understand and control their spending**.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML** – Semantic markup  
 - **CSS** – Modern styling, flex & grid  
 - **JavaScript** – DOM manipulation, CRUD logic, localStorage, CSV export  
 - **Chart.js** – Interactive monthly expense visualization  
 
-## 💻 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -61,7 +61,7 @@ Mobile-friendly responsive layout
 
 Connect to backend database for multi-device sync
 
-👩‍💻 Author
+Author
 
 Mary Waithera
 
